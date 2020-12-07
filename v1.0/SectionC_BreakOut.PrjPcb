@@ -174,23 +174,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GEKHWQLS
 
 [Document9]
-DocumentPath=Solenoid_Valve_Protection.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EVXDUHWC
-
-[Document10]
 DocumentPath=SectionC_BreakOut.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,6 +192,114 @@ DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SectionC_BreakOut\Design Rule Check - SectionC_BreakOut.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SectionC_BreakOut\NC Drill\SectionC_BreakOut.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for SectionC_BreakOut\NC Drill\SectionC_BreakOut.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\SectionC_BreakOut.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for SectionC_BreakOut\Gerber\SectionC_BreakOut.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for SectionC_BreakOut\NC Drill\SectionC_BreakOut.TXT
 DItemRevisionGUID=
 
 [Configuration1]
